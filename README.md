@@ -1,6 +1,4 @@
 # GYM MANAGEMENT SYSTEM
-THIS REPOSITORY CONSIST OF JAVA PROJECTS WHICH IS MADE USING DIFFERENT APPLICATIONS AND VARIOUS FUNCTION OF JAVA
-
 #Java Developer This ia a application of Gym Management System and a prototype of JAVA.
 
 The following Project is based on the application of Gym Management System Developed by using JAVA.
